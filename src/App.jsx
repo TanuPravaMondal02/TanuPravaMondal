@@ -502,7 +502,7 @@ export default function Portfolio() {
                 journal: "Plasmonics (Springer)",
                 factor: "IF: 4.3 (Q3)",
                 date: "Jun 2025",
-                doi: "10.1007/s11468-025-03107-2",
+                doi: "10.1007/s11468-025-03107-z",
                 tags: ["Hybrid Plasmonics"]
               },
               {
