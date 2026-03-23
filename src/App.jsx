@@ -351,11 +351,11 @@ export default function Portfolio() {
 
           <div className={`mt-16 flex justify-center gap-12 max-w-lg mx-auto border-t pt-8 ${darkMode ? 'border-slate-800' : 'border-slate-200'}`}>
              <div className="flex flex-col items-center">
-                <span className={`text-3xl font-bold ${headingClass}`}>8</span>
+                <span className={`text-3xl font-bold ${headingClass}`}>9</span>
                 <span className="text-xs uppercase tracking-widest text-slate-500 mt-1">Publications</span>
              </div>
              <div className={`flex flex-col items-center border-l pl-12 ${darkMode ? 'border-slate-800' : 'border-slate-200'}`}>
-                <span className={`text-3xl font-bold ${headingClass}`}>89+</span>
+                <span className={`text-3xl font-bold ${headingClass}`}>100+</span>
                 <span className="text-xs uppercase tracking-widest text-slate-500 mt-1">Citations</span>
              </div>
           </div>
